@@ -1,0 +1,6 @@
+{
+  "name": "HAKILIX",
+  "description": "HAKILIX is a privacy-first ambient intelligence care-support platform offering non-contact sensing, simulated radar and thermal digital twins, alert workflows, care notes, voice transcription, and database metrics tracker.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
